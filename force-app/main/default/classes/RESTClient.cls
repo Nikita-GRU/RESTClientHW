@@ -11,7 +11,7 @@ public with sharing class RESTClient {
     private static final String GET_METHOD = 'GET';
     private static final String POST_METHOD = 'POST';
     private static final String ACCESS_TOKEN_KEY = 'access_token';
-    public static final String ACCESS_TOKEN_ENDPOINT = 'https://login.salesforce.com/services/oauth2/token?grant_type=password&client_id=3MVG9n_HvETGhr3Ca0T9vrY0B1ZV3PSVCfwmBWgTl3A.PaZba7CRE2g8ChhId3FaiH12kenxa4O6JFx1WCwFB&client_secret=241CE586D835C63AAF3FDD15F9F141DFAF7EC907D5B7BE5A95E74DAD0A740BDA&username=mikitka334@wise-bear-t0v9lv.com&password=nik2486976PdMZehZg1x2jOgvvI893J7F9W';
+    public static final String ACCESS_TOKEN_ENDPOINT = ***
     private static final String JSON_CONTENT_TYPE = 'application/json';
     private static final String DELETE_METHOD = 'DELETE';
     private static final String PATCH_METHOD = 'PATCH';
